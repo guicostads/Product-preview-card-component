@@ -13,8 +13,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](![perfume-preview-card](https://user-images.githubusercontent.com/104312621/186760666-0e7dfc21-06e0-4988-b394-c7fcb8d1ae26.png)
+![](![Perfume Preview Card - 127 0 0 1](https://user-images.githubusercontent.com/104312621/186763147-14a5a278-2239-4770-857f-aa945104f7ce.jpeg)
 )
+
 
 
 
